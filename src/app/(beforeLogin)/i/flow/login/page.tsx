@@ -1,3 +1,3 @@
 export default function page() {
-  return <div>page</div>;
+  return <main>로그인 모달</main>;
 }
